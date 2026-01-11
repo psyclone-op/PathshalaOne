@@ -1,5 +1,3 @@
-# PathshalaOne 🎓
-
 PathshalaOne is a modern, responsive **Education ERP landing page** designed for schools, colleges, and universities.  
 It features a clean UI, smooth animations, and a built-in **dark mode** for better user experience.
 
