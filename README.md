@@ -17,7 +17,7 @@ It features a clean UI, smooth animations, and a built-in **dark mode** for bett
 
 - **HTML5** – Structure  
 - **CSS3** – Styling, animations & responsiveness  
-- **JavaScript (Vanilla)** – Dark mode toggle  
+- **JavaScript** – Dark mode toggle  
 
 No frameworks or libraries used.
 
